@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Can you describe the company culture?",
+    "answer": "Our culture is collaborative, inclusive, and focused on continuous learning."
+  },
+  {
+    "question": "What opportunities are there for professional growth?",
+    "answer": "We offer mentorship programs, training workshops, and support for certifications."
+  },
+  {
+    "question": "How does the company support work-life balance?",
+    "answer": "We provide flexible working hours, remote options, and generous paid time off."
+  },
+  {
+    "question": "What are the main challenges the company is facing right now?",
+    "answer": "We're expanding rapidly and working to scale our infrastructure to meet demand."
+  },
+  {
+    "question": "How does the company encourage innovation?",
+    "answer": "Employees are encouraged to propose new ideas and participate in hackathons."
+  },
+  {
+    "question": "What is the typical career path for someone in this role?",
+    "answer": "Many start as junior staff and progress to senior positions or team leads."
+  },
+  {
+    "question": "How does the company handle feedback and performance reviews?",
+    "answer": "We have regular one-on-one meetings and annual performance reviews."
+  },
+  {
+    "question": "What technologies does the company use?",
+    "answer": "We use modern stacks including Python, React, and cloud platforms like AWS."
+  },
+  {
+    "question": "Are there opportunities to work on cross-functional teams?",
+    "answer": "Yes, we encourage collaboration across departments for major projects."
+  },
+  {
+    "question": "What are the next big goals for the company?",
+    "answer": "We're focused on expanding into new markets and launching innovative products."
+  }
+]

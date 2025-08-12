@@ -7,7 +7,7 @@ load_dotenv("../.env")
 mcp = FastMCP(
     name="Calculator",
     host="0.0.0.0", # Used for SSE transport (localhost)
-    port = 6274 # Used for SSE transport
+    port = 8050 # Used for SSE transport
 )
 
 # Add a simple calculator tool
@@ -17,7 +17,7 @@ def add(a: int, b: int) -> int:
 
 # Run the server
 if __name__ == "__main__":
-    transport = "stdio"
+    transport = "sse"
     if transport == "stdio":
         print("Running server with stdio transport")
         mcp.run(transport="stdio")
